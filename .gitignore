@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.Thumbs.db
+.desktop.in
+*.log
+*.tmp
+*.csv
